@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D3C2D01B-10FE-4B92-930C-D42F262E4700</string>
+	<key>IDESourceControlProjectName</key>
+	<string>[IN]Flame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>36DE4CD93E17CC352C39A3E4A77352C6CED3D54A</key>
+		<string>https://github.com/Kaikat/FlirApp.git</string>
+		<key>9C57DFD572F38C00772DC594BB1AABF9939DF150</key>
+		<string>https://github.com/mohithingorani/INFLAME.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FLIROneSDKExampleApp/[IN]Flame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>36DE4CD93E17CC352C39A3E4A77352C6CED3D54A</key>
+		<string>../../../../FlirApp</string>
+		<key>9C57DFD572F38C00772DC594BB1AABF9939DF150</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mohithingorani/INFLAME.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9C57DFD572F38C00772DC594BB1AABF9939DF150</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>36DE4CD93E17CC352C39A3E4A77352C6CED3D54A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlirApp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C57DFD572F38C00772DC594BB1AABF9939DF150</string>
+			<key>IDESourceControlWCCName</key>
+			<string>INFLAME</string>
+		</dict>
+	</array>
+</dict>
+</plist>
